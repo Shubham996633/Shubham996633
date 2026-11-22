@@ -11,6 +11,8 @@ Co-founder of **[BuildKodiq](https://buildkodiq.com)**, an AI and web engineerin
 - **Mobile:** React Native, Expo, Flutter: four apps taken through App Store and Play review
 - **Automation and AI:** n8n, Make, Zapier, OpenAI, Claude, Gemini, RAG, MCP
 
+**Open source:** [realtime-dashboard-starter](https://github.com/Shubham996633/realtime-dashboard-starter): FastAPI WebSocket server + Next.js dashboard with reconnect, backpressure and per-frame batching
+
 **Stack:** TypeScript · Next.js · React · Go · Python · FastAPI · Node.js · Postgres · Supabase · Redis · WebSockets
 
 **Hire me / us:** [buildkodiq.com](https://buildkodiq.com) · [profile](https://buildkodiq.com/team/shubham-maurya) · hello@buildkodiq.com · [Upwork](https://www.upwork.com/freelancers/~01bcc7bba082732c9c) · [all projects](https://buildkodiq.com/work)
